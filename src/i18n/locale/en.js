@@ -1073,5 +1073,6 @@ export default {
   num_of_communication_rules: 'Number Of communication Rules',
   through_which_alerts_were_sent_to_monitor_performance: 'Through which alerts were sent to monitor performance',
   consultations: 'consultations',
+  links_table: 'Links Records',
 
 }

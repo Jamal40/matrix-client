@@ -425,3 +425,15 @@
     @confirm="pauseConfirmed"
   />
 </template>
+
+<style lang="scss" scoped>
+.filter-container {
+width: 270px;
+height: 40px;
+}
+
+:deep(.v-field.v-field--appended){
+background-color: #F8F7FA;
+border-radius: 12px;
+}
+</style>

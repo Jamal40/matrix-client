@@ -100,7 +100,7 @@
 
 <template>
 
-  <div class="form_container">
+  <v-card class="form_container">
     <div class="head_container">
       <img alt="track-link-icon" :src="trackIcon">
       <div>
@@ -164,14 +164,14 @@
         </v-col>
       </v-row>
     </v-form>
-  </div>
+  </v-card>
 </template>
 
 <style lang='scss' scoped>
 .form_container{
 background-color: #FFFFFF;
 padding: 16px;
-
+margin-bottom: 24px;
 .head_container{
 display: flex;
 align-items: center;

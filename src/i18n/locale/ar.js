@@ -1071,5 +1071,6 @@ export default {
   num_of_communication_rules: 'عدد قواعد الاتصال',
   through_which_alerts_were_sent_to_monitor_performance: 'التي تم إرسال تنبيهات من خلالها لمتابعة الأداء',
   consultations: 'الاستشارات',
+  links_table: 'سجل الروابط',
 
 }
